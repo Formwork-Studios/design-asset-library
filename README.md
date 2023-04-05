@@ -6,5 +6,5 @@
 - [FW_black.svg](./FW_black.svg)
 
 ### Fonts
-- Work Sans
+- [Work Sans](./fonts/)
 
