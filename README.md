@@ -1,4 +1,3 @@
-# FORMWORK STUDIOS
 ## Design Asset Library
 
 ### Logos
