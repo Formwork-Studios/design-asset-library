@@ -2,9 +2,9 @@
 ## Design Asset Library
 
 ### Logos
-- [FW.svg](./FW.svg)
-- [FW_black.svg](./FW_black.svg)
+- [Logomark_Square.png](./Logomark_Square.png)
 
 ### Fonts
 - [Work Sans](./fonts/)
+- [Lora](./fonts/)
 
