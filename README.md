@@ -2,8 +2,8 @@
 ## Design Asset Library
 
 ### Logos
-- [Logomark Transparent Background](./Logomark.png)
-- [Logomark Square](./Logomark_Square.png)
+- [Logomark Transparent Background (png)](./Logomark.png)
+- [Logomark Square (png)](./Logomark_Square.png)
 
 ### Fonts
 - [Work Sans](./fonts/)
